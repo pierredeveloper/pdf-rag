@@ -1,4 +1,4 @@
-![Q&A PDF](assets/qa-pdf-banner.png)
+![imagealt](https://github.com/pierredeveloper/pdf-rag/blob/main/qa-pdf-banner.png)
 
 # 📄 Q&A PDF - Retrieval-Augmented Generation (RAG) Application
 
