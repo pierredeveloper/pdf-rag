@@ -1,3 +1,5 @@
+![Q&A PDF Banner](Q&A PDF.png)
+
 # 📄 Q&A PDF - Retrieval-Augmented Generation (RAG) Application
 
 A simple Retrieval-Augmented Generation (RAG) application built with **Streamlit**, **LangChain**, **ChromaDB**, **Hugging Face Embeddings**, and **Groq Llama 3.3 70B**.
