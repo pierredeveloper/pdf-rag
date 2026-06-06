@@ -1,4 +1,4 @@
-![Q&A PDF Banner](Q&A PDF.png)
+![Q&A PDF](Q&A PDF.png)
 
 # 📄 Q&A PDF - Retrieval-Augmented Generation (RAG) Application
 
